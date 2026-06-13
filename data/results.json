@@ -1,0 +1,75 @@
+{
+  "_comment": "Curated REAL FIFA World Cup 2026 results (verified facts). Used as the source of truth because the API-Football free plan has no access to season 2026. NEVER fabricated — only confirmed real results with real scorers are listed here. Sorted newest-first at runtime by `date`.",
+  "matches": [
+    {
+      "id": 9000003,
+      "date": "2026-06-13",
+      "group": "D",
+      "round": "Group D",
+      "status": "FT",
+      "venue": "Los Angeles Stadium",
+      "city": "Los Angeles",
+      "home": { "name": "USA", "code": "us", "flag": "🇺🇸" },
+      "away": { "name": "Paraguay", "code": "py", "flag": "🇵🇾" },
+      "goalsHome": 4,
+      "goalsAway": 1,
+      "events": [
+        { "type": "Goal", "minute": 23, "player": "Folarin Balogun", "team": "USA" },
+        { "type": "Goal", "minute": 58, "player": "Folarin Balogun", "team": "USA" },
+        { "type": "Goal", "minute": 90, "player": "Giovanni Reyna", "team": "USA" }
+      ]
+    },
+    {
+      "id": 9000002,
+      "date": "2026-06-12",
+      "group": "B",
+      "round": "Group B",
+      "status": "FT",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "home": { "name": "Canada", "code": "ca", "flag": "🇨🇦" },
+      "away": { "name": "Bosnia and Herzegovina", "code": "ba", "flag": "🇧🇦" },
+      "goalsHome": 1,
+      "goalsAway": 1,
+      "events": [
+        { "type": "Goal", "minute": 21, "player": "Jovo Lukić", "team": "Bosnia and Herzegovina" },
+        { "type": "Goal", "minute": 78, "player": "Cyle Larin", "team": "Canada" }
+      ]
+    },
+    {
+      "id": 9000001,
+      "date": "2026-06-11",
+      "group": "A",
+      "round": "Group A",
+      "status": "FT",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home": { "name": "Mexico", "code": "mx", "flag": "🇲🇽" },
+      "away": { "name": "South Africa", "code": "za", "flag": "🇿🇦" },
+      "goalsHome": 2,
+      "goalsAway": 0,
+      "events": [
+        { "type": "Goal", "minute": 9, "player": "Julián Quiñones", "team": "Mexico" },
+        { "type": "Goal", "minute": 67, "player": "Raúl Jiménez", "team": "Mexico" }
+      ]
+    },
+    {
+      "id": 9000000,
+      "date": "2026-06-11",
+      "group": "A",
+      "round": "Group A",
+      "status": "FT",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "home": { "name": "South Korea", "code": "kr", "flag": "🇰🇷" },
+      "away": { "name": "Czechia", "code": "cz", "flag": "🇨🇿" },
+      "goalsHome": 2,
+      "goalsAway": 1,
+      "events": [
+        { "type": "Goal", "minute": 35, "player": "Ladislav Krejčí", "team": "Czechia" },
+        { "type": "Goal", "minute": 62, "player": "Hwang In-Beom", "team": "South Korea" },
+        { "type": "Goal", "minute": 80, "player": "Oh Hyeon-Gyu", "team": "South Korea" }
+      ]
+    }
+  ]
+}
